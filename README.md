@@ -3,7 +3,8 @@
 Hi my name is Mia, I make software, websites and stuff.
 Pronouns are She/Her.
 # My Projects
-- [Open Components](https://github.com/OpenThingies/OpenComponents)
+- [OpenThingies Components](https://github.com/OpenThingies/Components)
+- [OpenThingies Hooks](https://github.com/OpenThingies/Hooks)
 
 # Skills
 
